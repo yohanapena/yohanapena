@@ -1,16 +1,39 @@
-## Hi there 👋
+# ¡Hola, soy Yohana! 👋
 
-<!--
-**yohanapena/yohanapena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sistemas-000000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Sobre mí
+Soy estudiante de **Ingeniería en Sistemas**. Me apasiona entender cómo funciona la tecnología desde la base y actualmente estoy enfocada en dominar la lógica de programación.
+
+- 🎓 **Estudiando:** Ingeniería en Sistemas.
+- ☕ **Enfocada en:** Dominar Java y la Programación Orientada a Objetos (POO).
+- 🐍 **Explorando:** La versatilidad de Python.
+- 🚀 **Mi meta:** Construir soluciones eficientes y escalables.
+
+---
+
+### 🛠️ ¿En qué estoy trabajando?
+- 🌱 Aprendiendo **Estructuras de Datos**.
+- 🔭 Desarrollando **proyectos de consola** para fortalecer mi lógica.
+- 📚 Estudiando los pilares de la **POO**.
+
+---
+
+### 📊 Mis Estadísticas
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"El código es como el humor: si tienes que explicarlo, es malo."</i> <br>
+  <b>¡Gracias por visitar mi perfil! ✨</b>
+</p>
