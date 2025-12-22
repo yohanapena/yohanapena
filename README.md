@@ -28,7 +28,7 @@ Soy estudiante de **Ingeniería en Sistemas**. Me apasiona entender cómo funcio
 ### 📊 Mis Estadísticas
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohanapena&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
