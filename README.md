@@ -25,13 +25,7 @@ Soy estudiante de **Ingeniería en Sistemas**. Me apasiona entender cómo funcio
 
 ---
 
-### 📊 Mis Estadísticas
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yohanapena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohanapena&layout=compact&theme=tokyonight"/>
-</p>
 
----
 
 <p align="center">
   <i>"El código es como el humor: si tienes que explicarlo, es malo."</i> <br>
