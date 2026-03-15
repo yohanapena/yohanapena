@@ -2,32 +2,41 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sistemas-000000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-### 💻 Sobre mí
-Soy estudiante de **Ingeniería en Sistemas**. Me apasiona entender cómo funciona la tecnología desde la base y actualmente estoy enfocada en dominar la lógica de programación.
+### 🚀 Backend Developer | Ingeniería de Sistemas
+Soy una desarrolladora enfocada en el ecosistema **Java/Spring**. Me especializo en construir APIs REST seguras, eficientes y bien documentadas. Mi objetivo es transformar lógica compleja en soluciones escalables.
 
-- 🎓 **Estudiando:** Ingeniería en Sistemas.
-- ☕ **Enfocada en:** Dominar Java y la Programación Orientada a Objetos (POO).
-- 🐍 **Explorando:** La versatilidad de Python.
-- 🚀 **Mi meta:** Construir soluciones eficientes y escalables.
-
----
-
-### 🛠️ ¿En qué estoy trabajando?
-- 🌱 Aprendiendo **Estructuras de Datos**.
-- 🔭 Desarrollando **proyectos de consola** para fortalecer mi lógica.
-- 📚 Estudiando los pilares de la **POO**.
+- 🛠️ **Stack Principal:** Java (POO), Spring Boot 3, Spring Data JPA.
+- 🔐 **Seguridad & Datos:** Implementación de Spring Security y gestión de bases de datos relacionales (MySQL).
+- 🐍 **Data & Tools:** Automatización con Python y control de versiones con Git/GitHub.
+- 🤖 **Innovación:** Explorando la integración de IA en aplicaciones Java (Spring AI).
 
 ---
 
+### 📂 Proyectos Destacados
+*Aquí debes enlazar tus repositorios de los retos que veo en tus certificados:*
 
+- **[Challenge Foro Hub](link-a-tu-repo):** API REST robusta construida con Spring Boot siguiendo las mejores prácticas.
+- **[Challenge Literatura](link-a-tu-repo):** Aplicación de persistencia de datos y consumo de APIs externas.
+- **[Conversor de Monedas](link-a-tu-repo):** Lógica pura en Java aplicando POO y manejo de lambdas/streams.
+
+---
+
+### 🎓 Certificaciones Relevantes (Alura / Oracle Next Education)
+- **Spring Boot 3:** Desarrollo de APIs REST, validaciones, persistencia y seguridad.
+- **Java Orientado a Objetos:** Lambdas, Streams y colecciones de datos.
+- **Persistencia de Datos:** Spring Data JPA y consultas avanzadas.
+- **IA Generativa:** Ingeniería de Prompt aplicada al desarrollo.
+
+---
 
 <p align="center">
-  <i>"El código es como el humor: si tienes que explicarlo, es malo."</i> <br>
-  <b>¡Gracias por visitar mi perfil! ✨</b>
+  <b>¿Buscas una desarrolladora comprometida con el código limpio? ¡Hablemos!</b> <br>
+  [Tu LinkedIn] | [Tu Correo]
 </p>
