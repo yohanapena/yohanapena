@@ -38,8 +38,6 @@ Es mi implementación más completa de una arquitectura **Stateless**.
 
 ---
 
-### 📫 Contacto
-Estoy buscando mi primera oportunidad como **Junior Backend Developer** para aportar soluciones técnicas y seguir creciendo profesionalmente.
 
 - **LinkedIn:** [andrea-ypena](https://www.linkedin.com/in/andrea-ypena)
 
